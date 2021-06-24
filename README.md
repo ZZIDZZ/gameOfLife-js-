@@ -5,3 +5,4 @@ a simple simulation of the famous Conway's Game Of Life that simulates cell birt
 press r to randomize <br/>
 press s to start <br/>
 press p to stop <br/>
+you can also set density of randomized cells from the source code
